@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+results.csv
+cleanData.csv
+rawData.csv
+resultsAll.csv
